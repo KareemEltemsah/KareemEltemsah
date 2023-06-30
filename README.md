@@ -1,6 +1,8 @@
 <h1 align="left">Hi there 👋, my name is Kareem Eltemsah</h1>
-<h3 align="left">Software engineer and Flutter Developer with 1.5 year experience in mobile applications.
-Seeking to master my software engineering skills and creative thinking .</h3>
+<h3 align="left">Software engineer and Flutter Developer with 1.5 year experience in mobile applications. 
+With a passion for learning more technologies and keeping my knowledge always up to date.
+Seeking an opportunity to gain more experience and optimize my software engineering skills.
+</h3>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=KareemEltemsah&" alt="KareemEltemsah" /></p>
 
