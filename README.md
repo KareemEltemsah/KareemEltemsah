@@ -1,6 +1,6 @@
 <h1 align="left">Hi there 👋, my name is Kareem Eltemsah</h1>
-<h3 align="left">Junior Software engineer and Flutter Developer with 2 years experience in mobile applications. </br>
-With a passion for learning more technologies and keeping my knowledge always up to date.</br>
+<h3 align="left">Mid-level software engineer, skilled in Java Spring and Flutter, graduated from FCAI in 2021.</br>
+With passion for learning more technologies and keeping my knowledge always up to date.</br>
 Seeking an opportunity to gain more experience and optimize my software engineering skills.
 </h3>
 
